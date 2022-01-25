@@ -24,6 +24,8 @@ public class Ejemplo00 {
 ```
 #### Respuesta aquí
 
+17
+
 #### Fin respuesta
 
 ***
